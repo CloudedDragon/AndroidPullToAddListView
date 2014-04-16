@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ptr_pull_to_refresh">Pull to add row</string>
+    <string name="ptr_release_to_refresh">Release to add row</string>
+    <string name="ptr_adding">Adding…</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+</resources>

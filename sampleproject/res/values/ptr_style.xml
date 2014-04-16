@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+
+     
+     <!-- Examples below, remove comment to see effect -->
+    <style name="ptr_headerContainer">
+        
+        <!-- Change the background color -->
+        <!-- <item name="android:background">@android:color/darker_gray</item>  -->
+    </style>
+    
+    <style name="ptr_text">
+        
+        <!-- Change the text style and color -->
+        <!-- <item name="android:textStyle">bold|italic</item>  -->
+        <!-- <item name="android:textColor">#cccccc</item> -->
+    </style>
+    
+</resources>
